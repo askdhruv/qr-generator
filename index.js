@@ -2,7 +2,6 @@ import inquirer from 'inquirer';
 import qr from 'qr-image';
 import fs from 'fs';
 
-
 // 1. Use the inquirer npm package to get user input.
 
 inquirer
