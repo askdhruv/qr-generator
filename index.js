@@ -4,6 +4,7 @@ import fs from 'fs';
 
 // 1. Use the inquirer npm package to get user input.
 
+
 inquirer
   .prompt([
     {
